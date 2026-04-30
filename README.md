@@ -1,2 +1,8 @@
 # Tixly
-Tictek order sites
+## Implement the inferface
+### Frontend
+
+### Backend
+
+### Database 
+MySQL
